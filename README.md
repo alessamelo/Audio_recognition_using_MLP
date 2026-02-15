@@ -85,7 +85,6 @@ Output (1 neuron, Sigmoid)
 - Loss: Binary Crossentropy
 - Optimizer: Adam
 
----
 
 
 ## 📁 Project Structure
@@ -99,7 +98,7 @@ Output (1 neuron, Sigmoid)
 
 ---
 
-## 👩‍🎓 Author
+## Author
 
 Alessa Melo  
 Universidad Yachay Tech  
