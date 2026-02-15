@@ -1,0 +1,10 @@
+{
+    "model": "5. MLP",
+    "representation": "Mel Coef Spectogram",
+    "accuracy": 0.8390804597701149,
+    "precision": 0.85,
+    "recall": 0.6071428571428571,
+    "f1_score": 0.7083333333333334,
+    "auc": 0.8105326890945435,
+    "timestamp": "2026-02-14 20:36:35"
+}
